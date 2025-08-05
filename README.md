@@ -30,9 +30,6 @@ Game Project/
 ├── Game.js        # Game logic (JavaScript)
 ```
 
-## Screenshots
-
-Add a screenshot of your game here for better presentation.
 
 ## Customization
 
@@ -41,7 +38,7 @@ Add a screenshot of your game here for better presentation.
 
 ## Credits
 
-- Developed by [Your Name]
+- Developed by [Shubham Batwal]
 - Inspired by classic Rock Paper Scissors game
 
 ## License
