@@ -30,6 +30,8 @@ Game Project/
 ├── Game.js        # Game logic (JavaScript)
 ```
 
+## Screenshot
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f044822d-d01d-4c03-9fe6-d4a9a00a37b2" />
 
 ## Customization
 
